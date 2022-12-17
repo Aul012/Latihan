@@ -1,0 +1,5 @@
+Silabus Rekayasa Perangkat Lunak Kelas 3:
+- Git and Github
+- Framework Bootstrap
+- Framework Codeigniter
+- DBMS MySql
