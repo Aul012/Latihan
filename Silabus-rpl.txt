@@ -3,4 +3,5 @@ Silabus Rekayasa Perangkat Lunak Kelas 3:
 - Framework Bootstrap
 - Framework Codeigniter
 - DBMS MySql
-- Aplikasi Sosial Media Keals 3:
+- Aplikasi Sosial Media Kelas 3
+- Forking
